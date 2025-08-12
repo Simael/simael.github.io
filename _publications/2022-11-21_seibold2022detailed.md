@@ -1,0 +1,13 @@
+---
+title: "Detailed Annotations of Chest X-Rays via CT Projection for Report Understanding"
+collection: publications
+category: conferences
+permalink: /publication/2022-11-21_seibold2022detailed
+excerpt: 'This paper addresses the gap in medical image processing where models lack explicit anatomical knowledge needed for understanding radiology reports. It introduces PAXRay, a dataset integrating detailed anatomical segmentations from CT scans into X-ray images to improve medical phrase grounding linking report content to image regions. Using anatomical info, models achieve up to 50% better grounding on the OpenI dataset compared to standard methods. The dataset is publicly available.'
+date: 2022-11-21
+venue: 'BMVC'
+paperurl: 'https://bmvc2022.mpi-inf.mpg.de/58/'
+bibtexurl: 'http://simael.github.io/files/2022-11-21_seibold2022detailed.bib'
+authors: 'Constantin Seibold, Simon Reiß, Saquib Sarfraz, Matthias A. Fink, Victoria Mayer, Jan Sellner, Moon Sung Kim, Klaus H. Maier-Hein, Jens Kleesiek, Rainer Stiefelhagen.'
+---
+In clinical radiology reports, doctors capture important information about the patient's health status. They convey their observations from raw medical imaging data about the inner structures of a patient. As such, formulating reports requires medical experts to possess wide-ranging knowledge about anatomical regions with their normal, healthy appearance as well as the ability to recognize abnormalities. This explicit grasp on both the patient's anatomy and their appearance is missing in current medical image-processing systems as annotations are especially difficult to gather. This renders the models to be narrow experts e.g. for identifying specific diseases. In this work, we recover this missing link by adding human anatomy into the mix and enable the association of content in medical reports to their occurrence in associated imagery (medical phrase grounding). To exploit anatomical structures in this scenario, we present a sophisticated automatic pipeline to gather and integrate human bodily structures from computed tomography datasets, which we incorporate in our PAXRay: A Projected dataset for the segmentation of Anatomical structures in X-Ray data. Our evaluation shows that methods that take advantage of anatomical information benefit heavily in visually grounding radiologists' findings, as our anatomical segmentations allow for up to absolute 50% better grounding results on the OpenI dataset as compared to commonly used region proposals. The PAXRay dataset is available at this [https URL](https://huggingface.co/datasets/cmseibold/PAXRay).
