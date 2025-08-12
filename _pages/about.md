@@ -9,7 +9,7 @@ redirect_from:
 
 I am Postdoctoral Researcher at the Karlsruhe Institute of Technology (KIT), where I work on computer vision and machine learning systems with a focus on data-efficient learning algorithms to make vision technologies more accessible, affordable and human-centric.
 
-I am broadly interested in research collaborations on innovative learning paradigms like semi-weakly supervised and self-supervised learning, visual in‑context learning and data-centric AI, feel free to reach out!
+I am broadly interested in research collaborations on innovative learning paradigms like semi-weakly supervised and self-supervised learning, visual in‑context learning and data-centric AI. If you're interested, feel free to reach out!
 At KIT I am also frequently supervising thesis projects and am always looking for bright, motivated students to work with.
 
 
