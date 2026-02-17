@@ -4,7 +4,7 @@ collection: teaching
 type: "Day-to-day thesis supervision"
 permalink: /teaching/mabathesis
 venue: "Karlsruhe Institute of Technology"
-date: 2025-04-28
+date: 2025-12-15
 location: "Karlsruhe, Germany"
 ---
 
@@ -16,6 +16,7 @@ In case you are interested in working on your thesis with me feel free to send m
 
 
 Topics and alumni:
+* Explain by example: In-Context Learning with Vision Transformers for Retinal Image Analysis, Master's Thesis, Benjamin-Philipp Roth, 2025
 * On Compressing Large Language Models via Pruning, Master's Thesis, Calvin Tanama, 2025 (joint supervision with Saquib Sarfraz)
 * Exploring Interactions for Visual in-Context Learning, Master's Thesis, Carlos Schmidt, 2025
 * Synthetic Cataract Dataset: Generation and Evaluation for Deep Learning-based Scene Understanding in Ophthalmic Surgery, Bachelor's Thesis, Erik Wu, 2025 (external project with Rebekka Peter from Carl Zeiss AG)
