@@ -33,7 +33,7 @@ Teaching experience
 
 Additional experience
 =====
-* Patent: Published AI patent with ZEISS Group on efficient medical image segmentation ([link](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020231017144)).
+* Patents: Two published AI patents with ZEISS Group on efficient medical image segmentation ([link](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020231017144), [link](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020231125532)).
 * Grants: Successful joint grant application for Helmholtz Information & Data Science School for Health between Karlsruhe Institute of Technology and University Hospital Essen. Multiple granted applications for compute resources at high-performance computers.
 * Mentoring: Serving as mentor in Computer Vision Hackathons
 * Reviewing duties: Active reviewing at prime conferences in computer vision, including CVPR (2020 - present), ICCV (2021 - present), ECCV (2022 - present), in machine learning, NeurIPS (2025), in robotics, IROS (2021), ICRA (2024), as well as in medical computer vision, MICCAI (2025).
