@@ -4,7 +4,7 @@ collection: teaching
 type: "Day-to-day thesis supervision"
 permalink: /teaching/mabathesis
 venue: "Karlsruhe Institute of Technology"
-date: 2026-02-17
+date: 2026-04-22
 location: "Karlsruhe, Germany"
 ---
 
@@ -16,6 +16,8 @@ In case you are interested in working on your thesis with me feel free to send m
 
 
 Topics and alumni:
+* Visual in-Context Learning via Grid-based Image Inpainting with Diffusion Models, Master's Thesis, Tim Le Large, 2026
+* Benchmarking Visual in-Context Learning Methods and the Effect of Test-Time Fine-Tuning, Master's Thesis, Pradnya Halady, 2026 
 * Parameter Efficient Visual In-context Learning on General Visual Imagery, Master's Thesis, Sunil Khatri, 2026 (joint project with Department of Civil Engineering, Geo and Environmental Sciences)
 * Explain by example: In-Context Learning with Vision Transformers for Retinal Image Analysis, Master's Thesis, Benjamin-Philipp Roth, 2025
 * On Compressing Large Language Models via Pruning, Master's Thesis, Calvin Tanama, 2025 (joint supervision with Saquib Sarfraz)
